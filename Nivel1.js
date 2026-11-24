@@ -32,3 +32,6 @@ let fila = ["Marcos", "Juliana", "Roberto"]
 
 console.log(fila)
 
+function fnEncaixarPrioridade(fila, idoso ){
+    if(idoso == "")
+}
